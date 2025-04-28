@@ -9,6 +9,6 @@ Welcome to the course! This semester, we will focus on spatial analysis, using v
 # Lecture 1
 
 This is a general introduction to the course. We will talk about the course structure, the topics we will cover, and about R. I will show you the replications of two well-known papers with spatial analysis in economic history, as a guide of what you are going to be able to do at the end of the course.
-> - [Slides: Introduction to the Course](slides/lecture-1/lecture-1-intro.pdfecture_1.pdf) <br>
-> - [Script: Lecture 1](scripts/lecture-1/lecture_1_intro.R) <br>
+> - [Slides: Introduction to the Course](slides/lecture-1/lecture-1-intro.pdf) <br>
+> - [Script: Lecture 1](r-scripts/lecture-1/lecture-1-script.R) <br>
 > - Data: on E-Learning.
