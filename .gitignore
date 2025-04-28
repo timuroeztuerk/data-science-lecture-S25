@@ -6,6 +6,7 @@
 .RData
 .RDataTmp
 
+
 # User-specific files
 .Ruserdata
 
@@ -20,6 +21,7 @@
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -75,3 +77,9 @@ archive/
 data-waiting/
 r-scripts-waiting/
 slides-waiting/
+
+# Word File for Syllabus.
+*.docx
+
+# Some data I can't share over GitHub.
+data/data-lec1
